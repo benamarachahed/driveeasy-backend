@@ -1,0 +1,15 @@
+com\driveeasy\locationservice\client\ClientClient.class
+com\driveeasy\locationservice\exception\LocationNotFoundException.class
+com\driveeasy\locationservice\LocationServiceApplication.class
+com\driveeasy\locationservice\config\WebClientConfig.class
+com\driveeasy\locationservice\model\ClientDTO.class
+com\driveeasy\locationservice\exception\RegleMetierException.class
+com\driveeasy\locationservice\model\VehiculeDTO.class
+com\driveeasy\locationservice\model\EligibiliteDTO.class
+com\driveeasy\locationservice\model\Location.class
+com\driveeasy\locationservice\model\StatutLocation.class
+com\driveeasy\locationservice\service\LocationService.class
+com\driveeasy\locationservice\exception\GlobalExceptionHandler.class
+com\driveeasy\locationservice\client\VehiculeClient.class
+com\driveeasy\locationservice\controller\LocationController.class
+com\driveeasy\locationservice\repository\LocationRepository.class

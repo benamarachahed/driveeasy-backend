@@ -1,0 +1,15 @@
+C:\VS Code Projects\DriveEasy\backend\location-service\src\main\java\com\driveeasy\locationservice\model\Location.java
+C:\VS Code Projects\DriveEasy\backend\location-service\src\main\java\com\driveeasy\locationservice\exception\RegleMetierException.java
+C:\VS Code Projects\DriveEasy\backend\location-service\src\main\java\com\driveeasy\locationservice\model\VehiculeDTO.java
+C:\VS Code Projects\DriveEasy\backend\location-service\src\main\java\com\driveeasy\locationservice\LocationServiceApplication.java
+C:\VS Code Projects\DriveEasy\backend\location-service\src\main\java\com\driveeasy\locationservice\exception\GlobalExceptionHandler.java
+C:\VS Code Projects\DriveEasy\backend\location-service\src\main\java\com\driveeasy\locationservice\service\LocationService.java
+C:\VS Code Projects\DriveEasy\backend\location-service\src\main\java\com\driveeasy\locationservice\client\VehiculeClient.java
+C:\VS Code Projects\DriveEasy\backend\location-service\src\main\java\com\driveeasy\locationservice\config\WebClientConfig.java
+C:\VS Code Projects\DriveEasy\backend\location-service\src\main\java\com\driveeasy\locationservice\exception\LocationNotFoundException.java
+C:\VS Code Projects\DriveEasy\backend\location-service\src\main\java\com\driveeasy\locationservice\model\EligibiliteDTO.java
+C:\VS Code Projects\DriveEasy\backend\location-service\src\main\java\com\driveeasy\locationservice\model\StatutLocation.java
+C:\VS Code Projects\DriveEasy\backend\location-service\src\main\java\com\driveeasy\locationservice\repository\LocationRepository.java
+C:\VS Code Projects\DriveEasy\backend\location-service\src\main\java\com\driveeasy\locationservice\model\ClientDTO.java
+C:\VS Code Projects\DriveEasy\backend\location-service\src\main\java\com\driveeasy\locationservice\client\ClientClient.java
+C:\VS Code Projects\DriveEasy\backend\location-service\src\main\java\com\driveeasy\locationservice\controller\LocationController.java

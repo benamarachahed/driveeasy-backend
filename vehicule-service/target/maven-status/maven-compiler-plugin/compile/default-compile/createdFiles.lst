@@ -1,0 +1,12 @@
+com\driveeasy\vehiculeservice\model\Boite.class
+com\driveeasy\vehiculeservice\exception\ImmatriculationDejaUtiliseeException.class
+com\driveeasy\vehiculeservice\exception\GlobalExceptionHandler.class
+com\driveeasy\vehiculeservice\service\VehiculeService.class
+com\driveeasy\vehiculeservice\VehiculeServiceApplication.class
+com\driveeasy\vehiculeservice\controller\VehiculeController.class
+com\driveeasy\vehiculeservice\model\Vehicule.class
+com\driveeasy\vehiculeservice\repository\VehiculeRepository.class
+com\driveeasy\vehiculeservice\exception\RegleMetierException.class
+com\driveeasy\vehiculeservice\exception\VehiculeNotFoundException.class
+com\driveeasy\vehiculeservice\model\Carburant.class
+com\driveeasy\vehiculeservice\model\Statut.class

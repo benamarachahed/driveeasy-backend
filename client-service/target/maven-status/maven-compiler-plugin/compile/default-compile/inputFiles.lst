@@ -1,0 +1,11 @@
+C:\VS Code Projects\DriveEasy\backend\client-service\src\main\java\com\driveeasy\clientservice\exception\ClientNotFoundException.java
+C:\VS Code Projects\DriveEasy\backend\client-service\src\main\java\com\driveeasy\clientservice\exception\GlobalExceptionHandler.java
+C:\VS Code Projects\DriveEasy\backend\client-service\src\main\java\com\driveeasy\clientservice\model\CategorieClient.java
+C:\VS Code Projects\DriveEasy\backend\client-service\src\main\java\com\driveeasy\clientservice\exception\RegleMetierException.java
+C:\VS Code Projects\DriveEasy\backend\client-service\src\main\java\com\driveeasy\clientservice\controller\ClientController.java
+C:\VS Code Projects\DriveEasy\backend\client-service\src\main\java\com\driveeasy\clientservice\service\ClientService.java
+C:\VS Code Projects\DriveEasy\backend\client-service\src\main\java\com\driveeasy\clientservice\repository\ClientRepository.java
+C:\VS Code Projects\DriveEasy\backend\client-service\src\main\java\com\driveeasy\clientservice\model\Client.java
+C:\VS Code Projects\DriveEasy\backend\client-service\src\main\java\com\driveeasy\clientservice\model\Eligibilite.java
+C:\VS Code Projects\DriveEasy\backend\client-service\src\main\java\com\driveeasy\clientservice\ClientServiceApplication.java
+C:\VS Code Projects\DriveEasy\backend\client-service\src\main\java\com\driveeasy\clientservice\exception\DuplicataException.java

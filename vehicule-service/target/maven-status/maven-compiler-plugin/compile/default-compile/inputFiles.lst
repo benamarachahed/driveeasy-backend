@@ -1,0 +1,12 @@
+C:\VS Code Projects\DriveEasy\backend\vehicule-service\src\main\java\com\driveeasy\vehiculeservice\model\Boite.java
+C:\VS Code Projects\DriveEasy\backend\vehicule-service\src\main\java\com\driveeasy\vehiculeservice\model\Statut.java
+C:\VS Code Projects\DriveEasy\backend\vehicule-service\src\main\java\com\driveeasy\vehiculeservice\model\Carburant.java
+C:\VS Code Projects\DriveEasy\backend\vehicule-service\src\main\java\com\driveeasy\vehiculeservice\exception\VehiculeNotFoundException.java
+C:\VS Code Projects\DriveEasy\backend\vehicule-service\src\main\java\com\driveeasy\vehiculeservice\model\Vehicule.java
+C:\VS Code Projects\DriveEasy\backend\vehicule-service\src\main\java\com\driveeasy\vehiculeservice\repository\VehiculeRepository.java
+C:\VS Code Projects\DriveEasy\backend\vehicule-service\src\main\java\com\driveeasy\vehiculeservice\exception\ImmatriculationDejaUtiliseeException.java
+C:\VS Code Projects\DriveEasy\backend\vehicule-service\src\main\java\com\driveeasy\vehiculeservice\service\VehiculeService.java
+C:\VS Code Projects\DriveEasy\backend\vehicule-service\src\main\java\com\driveeasy\vehiculeservice\controller\VehiculeController.java
+C:\VS Code Projects\DriveEasy\backend\vehicule-service\src\main\java\com\driveeasy\vehiculeservice\VehiculeServiceApplication.java
+C:\VS Code Projects\DriveEasy\backend\vehicule-service\src\main\java\com\driveeasy\vehiculeservice\exception\RegleMetierException.java
+C:\VS Code Projects\DriveEasy\backend\vehicule-service\src\main\java\com\driveeasy\vehiculeservice\exception\GlobalExceptionHandler.java

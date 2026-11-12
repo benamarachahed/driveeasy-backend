@@ -1,0 +1,11 @@
+com\driveeasy\clientservice\ClientServiceApplication.class
+com\driveeasy\clientservice\service\ClientService.class
+com\driveeasy\clientservice\controller\ClientController.class
+com\driveeasy\clientservice\exception\RegleMetierException.class
+com\driveeasy\clientservice\repository\ClientRepository.class
+com\driveeasy\clientservice\model\CategorieClient.class
+com\driveeasy\clientservice\model\Eligibilite.class
+com\driveeasy\clientservice\exception\ClientNotFoundException.class
+com\driveeasy\clientservice\exception\DuplicataException.class
+com\driveeasy\clientservice\exception\GlobalExceptionHandler.class
+com\driveeasy\clientservice\model\Client.class
